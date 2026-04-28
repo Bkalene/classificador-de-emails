@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets (DO NOT PUSH)
+.env
+credentials.json
+token*.json
+
+# Data
+daily_report.md
+memory.jsonl
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
